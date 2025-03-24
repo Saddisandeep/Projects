@@ -1,8 +1,12 @@
 # Project execution 
 open the python file using VS Code/ Google Colab
+
 Download the Dataset 
+
 Dataset link = https://www.kaggle.com/datasets/brendan45774/test-file
+
 import the dataset
+
 Run all the codes provided  
 
 # Project verification 
